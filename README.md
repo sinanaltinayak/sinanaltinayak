@@ -1,5 +1,5 @@
 <h1>Hi, I'm Sinan Altınayak.</h1>
-<h3>A full stack developer from Turkey.</h3>
+<h3>A backend developer from Turkey.</h3>
 
 - 🌱 I’m currently learning **.NET Core, Angular**
 
